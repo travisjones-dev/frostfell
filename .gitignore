@@ -1,0 +1,10 @@
+# Local Claude Code machine settings (per-user permissions, not project config)
+.claude/settings.local.json
+
+# Unrelated project that happens to live in this folder — not part of FrostFell
+index.html
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store
+*.swp
