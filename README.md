@@ -8,7 +8,9 @@ No build step, no install — open the file (or serve it locally) and play.
 
 ## Play
 
-Serve the folder over HTTP and open `frostfell.html`. A tiny local dev server is
+**[Play in your browser →](https://travisjones-dev.github.io/frostfell/frostfell.html)** (desktop, keyboard + mouse)
+
+To run locally, serve the folder over HTTP and open `frostfell.html`. A tiny local dev server is
 included:
 
 ```bash
